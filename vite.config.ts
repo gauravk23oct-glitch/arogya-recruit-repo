@@ -1,11 +1,11 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
+  plugins: [react()],
 
   server: {
-    hmr: false,
+    // HMR is handled by the server's createViteServer middleware in middlewareMode.
+    // You can set HMR options here if you need a custom host/port for remote dev.
   },
 });
