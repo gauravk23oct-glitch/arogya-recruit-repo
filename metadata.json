@@ -1,0 +1,7 @@
+{
+  "name": "ArogyaConnect - Health Kiosk & Vitals",
+  "description": "Smart health kiosk & vitals monitoring app with real-time health checks, AI clinical analysis, doctor consultations, and health records.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

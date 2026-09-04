@@ -1,0 +1,900 @@
+{
+  "doctors": [
+    {
+      "id": "doc-1",
+      "name": "Dr. Ananya Roy",
+      "specialty": "General Physician & Internal Medicine",
+      "subSpecialty": "Preventive Health & Geriatric Care",
+      "category": "general",
+      "qualification": "MBBS, MD (Internal Medicine, AIIMS), DNB",
+      "hospitalAffiliation": "AIIMS New Delhi (Senior Consultant)",
+      "regNumber": "DMC-R-14829 (Delhi Medical Council)",
+      "experienceYears": 14,
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.93,
+      "reviewCount": 1240,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (ABDM / Ayushman Bharat Covered)",
+      "consultationCount": 3820,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Gold medalist from AIIMS New Delhi with 14+ years of clinical leadership in primary care, chronic disease management, and rural community health screening."
+    },
+    {
+      "id": "doc-2",
+      "name": "Dr. Rajesh Verma",
+      "specialty": "Cardiologist & Heart Specialist",
+      "subSpecialty": "Interventional Cardiology & Hypertension Management",
+      "category": "cardiology",
+      "qualification": "MBBS, MD (Medicine), DM (Cardiology, GB Pant)",
+      "hospitalAffiliation": "Fortis Escorts Heart Institute, New Delhi",
+      "regNumber": "MCI-32941 (Medical Council of India)",
+      "experienceYears": 18,
+      "languages": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.96,
+      "reviewCount": 2890,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (Govt Tele-Subsidized)",
+      "consultationCount": 5120,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Fellow of American College of Cardiology with over 5,000 successful procedures. Specializes in blood pressure control, arrhythmia, ECG interpretation, and ischemic heart disease."
+    },
+    {
+      "id": "doc-3",
+      "name": "Dr. Priya Sundaram",
+      "specialty": "Endocrinologist & Diabetologist",
+      "subSpecialty": "Type-2 Diabetes, Thyroid & Metabolic Disorders",
+      "category": "diabetes",
+      "qualification": "MBBS, MD, DM (Endocrinology, PGIMER)",
+      "hospitalAffiliation": "Apollo Hospitals, Greams Road, Chennai",
+      "regNumber": "TNC-58291 (Tamil Nadu Medical Council)",
+      "experienceYears": 12,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi",
+        "Telugu"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1594824813689-53664d4b1a45?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.92,
+      "reviewCount": 1850,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (Govt Subsidized)",
+      "consultationCount": 4210,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Pioneer in rural glycemic management programs. Expert in HbA1c stabilization, diabetic diet guidance, gestational diabetes, and thyroid hormone optimization."
+    },
+    {
+      "id": "doc-4",
+      "name": "Dr. Vikramaditya Joshi",
+      "specialty": "Neurologist & Stroke Specialist",
+      "subSpecialty": "Headache, Epilepsy & Peripheral Neuropathy",
+      "category": "neurology",
+      "qualification": "MBBS, MD (Medicine), DM (Neurology, NIMHANS)",
+      "hospitalAffiliation": "NIMHANS Bangalore & Manipal Hospital",
+      "regNumber": "KMC-77124 (Karnataka Medical Council)",
+      "experienceYears": 19,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Marathi"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.98,
+      "reviewCount": 3100,
+      "availableNow": true,
+      "nextSlot": "Available Today (10 mins queue)",
+      "consultationFee": "₹0 (National Tele-Neuro covered)",
+      "consultationCount": 6400,
+      "availableModes": [
+        "video",
+        "audio"
+      ],
+      "about": "Senior Neurologist with extensive research in stroke rehabilitation, neuropathic pain, migraine management, and tremors."
+    },
+    {
+      "id": "doc-5",
+      "name": "Dr. Sunita Deshmukh",
+      "specialty": "Orthopedic Surgeon & Joint Care",
+      "subSpecialty": "Arthritis, Spine Health & Fracture Rehabilitation",
+      "category": "orthopedics",
+      "qualification": "MBBS, MS (Orthopedics, KEM Mumbai), MCh Orth",
+      "hospitalAffiliation": "K.E.M. Hospital & Lilavati Hospital, Mumbai",
+      "regNumber": "MMC-44820 (Maharashtra Medical Council)",
+      "experienceYears": 15,
+      "languages": [
+        "Marathi",
+        "Hindi",
+        "English",
+        "Gujarati"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.89,
+      "reviewCount": 1640,
+      "availableNow": false,
+      "nextSlot": "Today at 04:30 PM",
+      "consultationFee": "₹0 (ABDM Subsidized)",
+      "consultationCount": 3190,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Specialist in osteoarthritis management, knee/hip pain relief exercises, osteoporosis prevention, and ergonomic spine correction."
+    },
+    {
+      "id": "doc-6",
+      "name": "Dr. Arvind Swaminathan",
+      "specialty": "Pediatrician & Child Health Specialist",
+      "subSpecialty": "Neonatology, Pediatric Nutrition & Vaccinations",
+      "category": "pediatrics",
+      "qualification": "MBBS, MD (Pediatrics, CMC Vellore), DCH (UK)",
+      "hospitalAffiliation": "Christian Medical College (CMC), Vellore",
+      "regNumber": "TNC-89214 (Tamil Nadu Medical Council)",
+      "experienceYears": 16,
+      "languages": [
+        "Tamil",
+        "English",
+        "Malayalam",
+        "Hindi"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.95,
+      "reviewCount": 2420,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (National Child Health Covered)",
+      "consultationCount": 5600,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Dedicated to primary pediatric care, infant growth tracking, seasonal pediatric infections, child asthma, and adolescent development."
+    },
+    {
+      "id": "doc-7",
+      "name": "Dr. Meenakshi Banerjee",
+      "specialty": "Dermatologist & Skin Specialist",
+      "subSpecialty": "Skin Allergies, Psoriasis, Eczema & Fungal Infections",
+      "category": "dermatology",
+      "qualification": "MBBS, MD (DVL, Calcutta Medical College)",
+      "hospitalAffiliation": "IPGMER & SSKM Hospital, Kolkata",
+      "regNumber": "WBMC-63109 (West Bengal Medical Council)",
+      "experienceYears": 11,
+      "languages": [
+        "Bengali",
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.9,
+      "reviewCount": 1410,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (Govt Subsidized)",
+      "consultationCount": 2890,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Expert in tropical dermatological conditions, eczema, contact dermatitis, fungal infections, hair/scalp health, and safe topical therapeutics."
+    },
+    {
+      "id": "doc-8",
+      "name": "Dr. Sanjay K. Singhal",
+      "specialty": "Pulmonologist & Chest Specialist",
+      "subSpecialty": "Asthma, COPD, Bronchitis & SpO2 Monitoring",
+      "category": "pulmonology",
+      "qualification": "MBBS, MD, DM (Pulmonary Medicine, VMMC Safdarjung)",
+      "hospitalAffiliation": "Medanta The Medicity & Safdarjung Hospital",
+      "regNumber": "DMC-90182 (Delhi Medical Council)",
+      "experienceYears": 17,
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.93,
+      "reviewCount": 2150,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (National Respiratory Shield Covered)",
+      "consultationCount": 4780,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Specialized in respiratory distress diagnosis, oxygen therapy calibration, environmental pollution health defense, and chronic cough management."
+    },
+    {
+      "id": "doc-9",
+      "name": "Dr. Radhika Menon",
+      "specialty": "Gynecologist & Women's Health",
+      "subSpecialty": "Maternal Health, PCOS/PCOD & Reproductive Care",
+      "category": "gynecology",
+      "qualification": "MBBS, MS (OBG, Madras Medical College), DNB, FICOG",
+      "hospitalAffiliation": "Aster Medcity & Govt Medical College, Kochi",
+      "regNumber": "TCMC-38910 (Travancore Cochin Medical Council)",
+      "experienceYears": 14,
+      "languages": [
+        "Malayalam",
+        "English",
+        "Hindi",
+        "Tamil"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.97,
+      "reviewCount": 2780,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (Janani Shishu Suraksha Covered)",
+      "consultationCount": 5200,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Advocate of women's primary reproductive wellbeing, prenatal guidance, menstrual disorders, anemia eradication in rural mothers, and hormone balance."
+    },
+    {
+      "id": "doc-10",
+      "name": "Dr. Harpreet Singh Gill",
+      "specialty": "ENT Surgeon (Ear, Nose & Throat)",
+      "subSpecialty": "Hearing Care, Sinusitis, Throat & Vertigo Treatment",
+      "category": "ent",
+      "qualification": "MBBS, MS (ENT, PGIMER Chandigarh), DOHNS",
+      "hospitalAffiliation": "PGIMER Chandigarh & Fortis Mohali",
+      "regNumber": "PMC-23849 (Punjab Medical Council)",
+      "experienceYears": 13,
+      "languages": [
+        "Punjabi",
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.88,
+      "reviewCount": 1120,
+      "availableNow": false,
+      "nextSlot": "Tomorrow at 10:00 AM",
+      "consultationFee": "₹0 (ABDM Subsidized)",
+      "consultationCount": 2450,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Specialized in chronic sinus inflammation, tonsillitis, ear discharge, allergic rhinitis, balance disorders (vertigo), and hearing rehabilitation."
+    },
+    {
+      "id": "doc-11",
+      "name": "Dr. Amitav Patnaik",
+      "specialty": "Nephrologist & Kidney Specialist",
+      "subSpecialty": "Kidney Function, Proteinuria & Dialysis Care",
+      "category": "nephrology",
+      "qualification": "MBBS, MD (Medicine), DM (Nephrology, SGPGI Lucknow)",
+      "hospitalAffiliation": "Apollo Hospitals, Bhubaneswar & SCB Cuttack",
+      "regNumber": "OMC-18490 (Odisha Medical Council)",
+      "experienceYears": 15,
+      "languages": [
+        "Odia",
+        "Hindi",
+        "English",
+        "Bengali"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.91,
+      "reviewCount": 1380,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (National Renal Care Scheme)",
+      "consultationCount": 3100,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Expert in preserving renal function in diabetic and hypertensive patients, urinary tract infections, electrolyte imbalances, and acute kidney injury prevention."
+    },
+    {
+      "id": "doc-12",
+      "name": "Dr. Shalini Patel",
+      "specialty": "Psychiatrist & Mental Health Consultant",
+      "subSpecialty": "Anxiety, Stress, Depression, Sleep Disorders & Counseling",
+      "category": "mental_health",
+      "qualification": "MBBS, MD (Psychiatry, BJ Medical College)",
+      "hospitalAffiliation": "Civil Hospital Ahmedabad & Sterling Hospital",
+      "regNumber": "GUMC-51920 (Gujarat Medical Council)",
+      "experienceYears": 10,
+      "languages": [
+        "Gujarati",
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.94,
+      "reviewCount": 1590,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (Tele-MANAS Covered)",
+      "consultationCount": 2950,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Compassionate mental health professional specializing in stress resilience, anxiety relief, mood disorders, insomnia, and de-addiction therapy."
+    },
+    {
+      "id": "doc-13",
+      "name": "Dr. K. S. Venkatesh",
+      "specialty": "Ophthalmologist & Eye Specialist",
+      "subSpecialty": "Cataract, Diabetic Retinopathy & Vision Screening",
+      "category": "ophthalmology",
+      "qualification": "MBBS, MS (Ophthalmology, Sankara Nethralaya), FICO (UK)",
+      "hospitalAffiliation": "Sankara Nethralaya & Narayana Nethralaya",
+      "regNumber": "TNC-41928 (Tamil Nadu Medical Council)",
+      "experienceYears": 20,
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "English",
+        "Hindi"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1622902046580-2b47f47f5471?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.97,
+      "reviewCount": 3450,
+      "availableNow": false,
+      "nextSlot": "Today at 05:00 PM",
+      "consultationFee": "₹0 (National Eye Health Covered)",
+      "consultationCount": 7100,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Leading eye care surgeon with over 10,000 micro-surgeries. Expert in digital eyestrain, cataract evaluation, glaucoma screening, and macular health."
+    },
+    {
+      "id": "doc-14",
+      "name": "Dr. Ritu Bhardwaj",
+      "specialty": "Ayurveda & Integrative Medicine",
+      "subSpecialty": "Chronic Lifestyle Disorders, Digestive Health & Immunity",
+      "category": "ayurveda",
+      "qualification": "BAMS, MD (Ayurveda - Kayachikitsa, NIA Jaipur), PhD",
+      "hospitalAffiliation": "National Institute of Ayurveda (NIA), Jaipur",
+      "regNumber": "RJMC-92014 (Board of Indian Medicine)",
+      "experienceYears": 12,
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.87,
+      "reviewCount": 980,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (AYUSH Ministry Covered)",
+      "consultationCount": 2200,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Specializes in evidence-based Ayurvedic medicine, gut flora rejuvenation, lifestyle metabolic balancing (Rasayana), and holistic joint stiffness therapy."
+    },
+    {
+      "id": "doc-15",
+      "name": "Dr. Tanmay Mukherjee",
+      "specialty": "Gastroenterologist & Hepatologist",
+      "subSpecialty": "Liver Health, Acidity/GERD, IBS & Gallbladder Care",
+      "category": "gastroenterology",
+      "qualification": "MBBS, MD, DM (Gastroenterology, IPGMER Kolkata)",
+      "hospitalAffiliation": "AMRI Hospitals & Apollo Gleneagles, Kolkata",
+      "regNumber": "WBMC-71934 (West Bengal Medical Council)",
+      "experienceYears": 14,
+      "languages": [
+        "Bengali",
+        "Hindi",
+        "English"
+      ],
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.92,
+      "reviewCount": 1730,
+      "availableNow": true,
+      "nextSlot": "Available Immediately (Online)",
+      "consultationFee": "₹0 (ABDM Covered)",
+      "consultationCount": 3680,
+      "availableModes": [
+        "video",
+        "audio",
+        "chat"
+      ],
+      "about": "Specialized in fatty liver diagnosis, chronic indigestion, peptic ulcer disease, inflammatory bowel symptoms, and endoscopy evaluations."
+    }
+  ],
+  "patientProfile": {
+    "name": "Ramesh Kumar Sharma",
+    "abhaId": "91-4820-1928-3921",
+    "age": 48,
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "phone": "+91 98765 43210",
+    "emergencyContact": "+91 98123 45678 (Spouse - Sunita)",
+    "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDB9EP28IpcWeVA7u5JLDE3Z2NZUmmkRWz9Lo7FpJIDhxAiFVCCe4W2mn3VGrS15NzS3ve_R1CY6LFkA52FwlPSG7menq1bCMjJA2M0-mbE_EQI9jP3C7GekW2cSSzjeeTYplPYVGI53ZfHvyUaO5J-ZmZQidCeVkEwIRZyynUknnOXqoixF7zTq2iua_0SHIj9otla-Ce5Y6pzqJQuPzCXCaTAVwkti5zRVcIVnJsEuHMQq0Gwghzknw",
+    "preferredLanguage": "en",
+    "voiceGuidanceEnabled": true,
+    "kioskLocation": "Arogya Rural Kiosk - Sector 4",
+    "village": "Pipariya Kalan",
+    "location": "Pipariya Kalan, Ward 3"
+  },
+  "healthRecords": [
+    {
+      "id": "rec-1",
+      "timestamp": "2026-09-01T11:09:02.717Z",
+      "bloodPressure": {
+        "systolic": 122,
+        "diastolic": 82,
+        "unit": "mmHg",
+        "status": "Normal"
+      },
+      "bloodSugar": {
+        "value": 114,
+        "unit": "mg/dL",
+        "type": "Fasting",
+        "status": "Normal"
+      },
+      "spO2": {
+        "value": 97,
+        "unit": "%",
+        "status": "Good"
+      },
+      "temperature": {
+        "value": 98.4,
+        "unit": "°F",
+        "status": "Normal"
+      },
+      "heartRate": {
+        "value": 74,
+        "unit": "BPM",
+        "status": "Normal"
+      },
+      "notes": "Routine evening vitals check",
+      "location": "Kiosk #1 - Primary Health Centre"
+    },
+    {
+      "id": "rec-2",
+      "timestamp": "2026-08-29T11:09:02.717Z",
+      "bloodPressure": {
+        "systolic": 118,
+        "diastolic": 78,
+        "unit": "mmHg",
+        "status": "Normal"
+      },
+      "bloodSugar": {
+        "value": 108,
+        "unit": "mg/dL",
+        "type": "Fasting",
+        "status": "Normal"
+      },
+      "spO2": {
+        "value": 99,
+        "unit": "%",
+        "status": "Good"
+      },
+      "temperature": {
+        "value": 98.6,
+        "unit": "°F",
+        "status": "Normal"
+      },
+      "heartRate": {
+        "value": 70,
+        "unit": "BPM",
+        "status": "Normal"
+      },
+      "notes": "Post-walk health check",
+      "location": "Kiosk #2 - Gram Panchayat Office"
+    },
+    {
+      "id": "rec-3",
+      "timestamp": "2026-08-22T11:09:02.717Z",
+      "bloodPressure": {
+        "systolic": 125,
+        "diastolic": 84,
+        "unit": "mmHg",
+        "status": "Elevated"
+      },
+      "bloodSugar": {
+        "value": 122,
+        "unit": "mg/dL",
+        "type": "Post-Meal",
+        "status": "Normal"
+      },
+      "spO2": {
+        "value": 98,
+        "unit": "%",
+        "status": "Good"
+      },
+      "temperature": {
+        "value": 98.7,
+        "unit": "°F",
+        "status": "Normal"
+      },
+      "heartRate": {
+        "value": 76,
+        "unit": "BPM",
+        "status": "Normal"
+      },
+      "notes": "General monthly checkup",
+      "location": "Mobile Health Camp"
+    }
+  ],
+  "doctorTeleconsultQueue": [
+    {
+      "id": "q-1",
+      "patientId": "pat-101",
+      "patientName": "Kamla Devi",
+      "patientAge": 26,
+      "patientGender": "Female",
+      "village": "Pipariya Kalan",
+      "abhaId": "91-3829-1029-4820",
+      "symptoms": "High BP in 3rd trimester (142/92 mmHg), mild pedal swelling",
+      "triageRisk": "yellow",
+      "vitals": {
+        "id": "v-q-1",
+        "timestamp": "2026-09-03T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 142,
+          "diastolic": 92,
+          "unit": "mmHg",
+          "status": "High (Stage 1)"
+        },
+        "bloodSugar": {
+          "value": 118,
+          "unit": "mg/dL",
+          "type": "Random",
+          "status": "Normal"
+        },
+        "spO2": {
+          "value": 97,
+          "unit": "%",
+          "status": "Good"
+        },
+        "temperature": {
+          "value": 98.4,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 88,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "tokenNumber": "TK-01",
+      "waitingSince": "4 mins ago",
+      "preferredMode": "video",
+      "status": "waiting"
+    },
+    {
+      "id": "q-2",
+      "patientId": "pat-102",
+      "patientName": "Ramsevak Yadav",
+      "patientAge": 62,
+      "patientGender": "Male",
+      "village": "Pipariya Kalan",
+      "abhaId": "91-8492-2938-1940",
+      "symptoms": "Elevated fasting blood sugar (174 mg/dL), mild fatigue",
+      "triageRisk": "yellow",
+      "vitals": {
+        "id": "v-q-2",
+        "timestamp": "2026-09-03T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 135,
+          "diastolic": 86,
+          "unit": "mmHg",
+          "status": "Elevated"
+        },
+        "bloodSugar": {
+          "value": 174,
+          "unit": "mg/dL",
+          "type": "Fasting",
+          "status": "High"
+        },
+        "spO2": {
+          "value": 96,
+          "unit": "%",
+          "status": "Normal"
+        },
+        "temperature": {
+          "value": 98.6,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 74,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "tokenNumber": "TK-02",
+      "waitingSince": "9 mins ago",
+      "preferredMode": "audio",
+      "status": "waiting"
+    }
+  ],
+  "ashaVillagePatients": [
+    {
+      "id": "asha-pat-1",
+      "name": "Kamla Devi",
+      "age": 26,
+      "gender": "Female",
+      "village": "Pipariya Kalan",
+      "ward": "Ward 3",
+      "abhaId": "91-3829-1029-4820",
+      "phone": "+91 94251 88291",
+      "category": "anc",
+      "riskFlag": "high",
+      "pregnancyTrimester": 3,
+      "lastVitals": {
+        "id": "v-anc-1",
+        "timestamp": "2026-09-01T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 142,
+          "diastolic": 92,
+          "unit": "mmHg",
+          "status": "High (Stage 1)"
+        },
+        "bloodSugar": {
+          "value": 118,
+          "unit": "mg/dL",
+          "type": "Random",
+          "status": "Normal"
+        },
+        "spO2": {
+          "value": 97,
+          "unit": "%",
+          "status": "Good"
+        },
+        "temperature": {
+          "value": 98.4,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 88,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "lastVisitDate": "2026-08-29",
+      "nextFollowUp": "2026-09-02",
+      "offlineSyncStatus": "synced",
+      "notes": "Gestational hypertension watch. Anemia screening hemoglobin 10.2g/dL. Iron Folic Acid tablets issued.",
+      "immunizationDue": [
+        "TT Booster / Td Dose 2"
+      ]
+    },
+    {
+      "id": "asha-pat-2",
+      "name": "Ramsevak Yadav",
+      "age": 62,
+      "gender": "Male",
+      "village": "Pipariya Kalan",
+      "ward": "Ward 1",
+      "abhaId": "91-8492-2938-1940",
+      "phone": "+91 98263 11923",
+      "category": "diabetic",
+      "riskFlag": "moderate",
+      "lastVitals": {
+        "id": "v-diab-1",
+        "timestamp": "2026-08-29T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 135,
+          "diastolic": 86,
+          "unit": "mmHg",
+          "status": "Elevated"
+        },
+        "bloodSugar": {
+          "value": 174,
+          "unit": "mg/dL",
+          "type": "Fasting",
+          "status": "High"
+        },
+        "spO2": {
+          "value": 96,
+          "unit": "%",
+          "status": "Normal"
+        },
+        "temperature": {
+          "value": 98.6,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 74,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "lastVisitDate": "2026-08-26",
+      "nextFollowUp": "2026-09-05",
+      "offlineSyncStatus": "synced",
+      "notes": "Type-2 diabetes on Metformin 500mg. Fasting sugar slightly elevated. Advised diet control."
+    },
+    {
+      "id": "asha-pat-3",
+      "name": "Baby Aarav (s/o Meena)",
+      "age": 1,
+      "gender": "Male",
+      "village": "Pipariya Kalan",
+      "ward": "Ward 4",
+      "abhaId": "91-1029-4820-3849",
+      "phone": "+91 97521 34910",
+      "category": "child",
+      "riskFlag": "normal",
+      "lastVitals": {
+        "id": "v-ch-1",
+        "timestamp": "2026-08-27T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 90,
+          "diastolic": 60,
+          "unit": "mmHg",
+          "status": "Normal"
+        },
+        "bloodSugar": {
+          "value": 92,
+          "unit": "mg/dL",
+          "type": "Random",
+          "status": "Normal"
+        },
+        "spO2": {
+          "value": 99,
+          "unit": "%",
+          "status": "Good"
+        },
+        "temperature": {
+          "value": 98.2,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 110,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "lastVisitDate": "2026-08-24",
+      "nextFollowUp": "2026-09-10",
+      "offlineSyncStatus": "synced",
+      "notes": "Growth chart green zone (Weight 9.4 kg). Pentavalent-3 vaccine completed.",
+      "immunizationDue": [
+        "Measles-Rubella (MR-1)",
+        "JE-1 (Japanese Encephalitis)"
+      ]
+    },
+    {
+      "id": "asha-pat-4",
+      "name": "Sundari Bai",
+      "age": 54,
+      "gender": "Female",
+      "village": "Pipariya Kalan",
+      "ward": "Ward 2",
+      "abhaId": "91-5820-3948-2910",
+      "phone": "+91 99812 77412",
+      "category": "hypertensive",
+      "riskFlag": "moderate",
+      "lastVitals": {
+        "id": "v-hyp-1",
+        "timestamp": "2026-08-31T11:09:02.718Z",
+        "bloodPressure": {
+          "systolic": 148,
+          "diastolic": 94,
+          "unit": "mmHg",
+          "status": "High (Stage 1)"
+        },
+        "bloodSugar": {
+          "value": 108,
+          "unit": "mg/dL",
+          "type": "Random",
+          "status": "Normal"
+        },
+        "spO2": {
+          "value": 97,
+          "unit": "%",
+          "status": "Good"
+        },
+        "temperature": {
+          "value": 98.6,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 80,
+          "unit": "BPM",
+          "status": "Normal"
+        }
+      },
+      "lastVisitDate": "2026-08-28",
+      "nextFollowUp": "2026-09-04",
+      "offlineSyncStatus": "synced",
+      "notes": "Hypertension follow-up. Telmisartan 40mg daily prescribed at PHC. Salt restriction counselled."
+    },
+    {
+      "id": "asha-pat-5",
+      "name": "Ramesh Kumar Sharma",
+      "age": 48,
+      "gender": "Male",
+      "village": "Pipariya Kalan",
+      "ward": "Ward 4",
+      "abhaId": "91-4820-1928-3921",
+      "phone": "+91 98765 43210",
+      "category": "general",
+      "riskFlag": "normal",
+      "lastVitals": {
+        "id": "vitals-live",
+        "timestamp": "2026-09-03T11:09:02.716Z",
+        "bloodPressure": {
+          "systolic": 120,
+          "diastolic": 80,
+          "unit": "mmHg",
+          "status": "Normal"
+        },
+        "bloodSugar": {
+          "value": 110,
+          "unit": "mg/dL",
+          "type": "Fasting",
+          "status": "Normal"
+        },
+        "spO2": {
+          "value": 98,
+          "unit": "%",
+          "status": "Good"
+        },
+        "temperature": {
+          "value": 98.6,
+          "unit": "°F",
+          "status": "Normal"
+        },
+        "heartRate": {
+          "value": 72,
+          "unit": "BPM",
+          "status": "Normal"
+        },
+        "notes": "Kiosk sensor measurement accurate",
+        "location": "Arogya Community Health Center #4"
+      },
+      "lastVisitDate": "2026-08-30",
+      "nextFollowUp": "2026-09-15",
+      "offlineSyncStatus": "synced",
+      "notes": "Kiosk regular checkup. Vitals stable. No active complaints."
+    }
+  ]
+}

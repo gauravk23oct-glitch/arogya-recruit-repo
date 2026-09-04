@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: #0F172A;
+    --primary-container: #1E293B;
+    --accent: #38BDF8;
+    --accent-glow: rgba(56, 189, 248, 0.15);
+    
+    --surface: #F1F5F9;
+    --surface-card: #FFFFFF;
+    --surface-dark: #0F172A;
+    --surface-dark-card: #1E293B;
+    
+    --border-light: #E2E8F0;
+    --border-dark: #334155;
+    
+    --text-primary: #0F172A;
+    --text-secondary: #64748B;
+    --text-muted: #94A3B8;
+    
+    --success: #22C55E;
+    --success-bg: #DCFCE7;
+    --success-text: #15803D;
+    
+    --warning: #F59E0B;
+    --warning-bg: #FEF3C7;
+    --warning-text: #B45309;
+    
+    --danger: #EF4444;
+    --danger-bg: #FEE2E2;
+    --danger-text: #B91C1C;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #F1F5F9;
+    color: #1E293B;
+    min-height: 100vh;
+  }
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Geometric Diamond Logo */
+.geometric-diamond {
+  width: 32px;
+  height: 32px;
+  background-color: #38BDF8;
+  border-radius: 3px;
+  transform: rotate(45deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.geometric-diamond-inner {
+  width: 14px;
+  height: 14px;
+  background-color: #0F172A;
+  transform: rotate(-45deg);
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.95); opacity: 0.8; }
+  50% { transform: scale(1.1); opacity: 0.4; }
+  100% { transform: scale(0.95); opacity: 0.8; }
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s infinite ease-in-out;
+}
+
+@keyframes heartbeat {
+  0%, 100% { transform: scale(1); }
+  25% { transform: scale(1.08); }
+  40% { transform: scale(0.98); }
+  60% { transform: scale(1.05); }
+}
+
+.animate-heartbeat {
+  animation: heartbeat 1.2s infinite ease-in-out;
+}
+
